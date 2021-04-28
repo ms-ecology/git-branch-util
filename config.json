@@ -16,7 +16,7 @@
   },
   "feature": {
     "type": "shell",
-    "desc": "git branch utils, ms feature <type> [...args]",
+    "desc": "git branch utils",
     "path": "./shell/feature.sh"
   }
 }
