@@ -1,0 +1,7 @@
+{
+  "feature": {
+    "type": "shell",
+    "desc": "git branch utils, ms feature <type> [...args]",
+    "path": "./shell/feature.sh"
+  }
+}
