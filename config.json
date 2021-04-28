@@ -1,4 +1,19 @@
 {
+  "cfb": {
+    "type": "shell",
+    "desc": "create a branch base on master or main.",
+    "path": "./shell/cfb.sh"
+  },
+  "mfb": {
+    "type": "shell",
+    "desc": "merge current locale branch to target branch.",
+    "path": "./shell/mfb.sh"
+  },
+  "dfb": {
+    "type": "shell",
+    "desc": "delete a branch and its remote branch.",
+    "path": "./shell/dfb.sh"
+  },
   "feature": {
     "type": "shell",
     "desc": "git branch utils, ms feature <type> [...args]",
